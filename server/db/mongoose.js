@@ -1,4 +1,5 @@
 /////mongoose is now configured
+//$heroku git:remote -a todonodeapp01
 const mongoose = require("mongoose");
 
 mongoose.Promise = global.Promise;
